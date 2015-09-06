@@ -1,0 +1,14 @@
+{
+  "name": "jsonform",
+  "version": "0.0.1",
+  "description": "JSON Form describes your forms in JSON format, works great with JSON Schema",
+  "homepage": "https://www.github.com/DenisIzmaylov/jsonform",
+  "repository": "DenisIzmaylov/jsonform",
+  "author": "Denis Izmaylov <izmaylov.dm@gmail.com>",
+  "contributors": [
+    "Denis Izmaylov <izmaylov.dm@gmail.com>"
+  ],
+  "license": "MIT",
+  "main": "lib/index.js",
+  "dependencies": {}
+}
